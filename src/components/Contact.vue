@@ -48,7 +48,7 @@
 
 	const notyf = new Notyf();
 
-	const WEB3FORMS_ACCESS_KEY = "76d6b2cd-7e81-42c3-95b7-b12b325daf4c";
+	const WEB3FORMS_ACCESS_KEY = "79c71c91-52c6-40e9-addd-b3f34eaac839";
 
 	// email subject
 	const subject = "New message from Portfolio Contact form";
@@ -109,7 +109,7 @@
 	
 
 
-	const SITE_KEY = '';  
+	const SITE_KEY = '6Lcxkn8sAAAAAMQADePOFvfj0ugA6Y1YciixKjhh';  
 
 	const recaptchaContainer = ref(null);
 	const recaptchaWidgetId = ref(null);
@@ -168,6 +168,7 @@
 	});
 
 	
+
 
 
 </script>
