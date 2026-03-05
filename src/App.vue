@@ -12,7 +12,7 @@
   <Projects />
   <Tools />
   <Contact />
-  <Footer />
+ 
 </template>
 
 <style scoped>
